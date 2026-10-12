@@ -12,13 +12,13 @@ int main() {
       printf("0");
   }
   else if (distance <= 5) {
-      printf(15000);
+      printf ("15000");
   }
   else if (distance <= 15) {
-      printf(25000);
+      printf("25000");
   }
   else if (distance >15) {
-      printf(40000);
+      printf("40000");
   }
   
   return 0;

@@ -3,7 +3,7 @@
 int main() {
     int t;
     if (scanf("%d", &t) == 1) {
-        if (t < 15) {
+        if (t <= 15) {
             printf("LANH\n");
         } else if (t < 25) {
             printf("MAT\n");

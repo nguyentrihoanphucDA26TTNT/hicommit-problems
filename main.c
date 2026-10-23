@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  int code;
   switch(code)
     {
       case '1':

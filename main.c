@@ -5,6 +5,6 @@ int main() {
   scanf("%d", &a);
   tong_tien = 0;
   if (a <= 50)
-    tong_tien = a * 1678
+    tong_tien = a * 1678;
   return 0;
 }

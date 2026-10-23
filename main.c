@@ -6,8 +6,8 @@ int main() {
   scanf("%2f", &w);
   printf("h");
   scanf("%2f", &h);
-  float BMI;
-  float BMI = w / (h/100) * (h/100);
+  int BMI;
+  float "BMI" = w / (h/100) * (h/100);
   if (BMI < 18.5) {
     printf("UNDERWEIGHT");
     

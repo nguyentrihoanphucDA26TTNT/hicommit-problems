@@ -7,7 +7,7 @@ int main() {
   printf("h");
   scanf("%2f", &h);
   int BMI;
-  BMI = w/(h/100)^2;
+  float BMI = w/(h/100)^2;
   if (BMI < 18.5) {
     printf("UNDERWEIGHT");
     

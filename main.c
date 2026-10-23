@@ -6,5 +6,6 @@ int main() {
   int tong_tien = 0;
   if (a <= 50)
     tong_tien = a * 1678;
+    printf("%d", tong_tien);
   return 0;
 }

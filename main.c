@@ -6,6 +6,6 @@ int main() {
   scanf("%2f", &w);
   printf("h");
   scanf("%2f", &h);
-  BMI = w/(h/100)^2;
+  float "BMI" = w/(h/100)^2;
   return 0;
 }
